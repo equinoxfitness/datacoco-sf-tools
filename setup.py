@@ -9,7 +9,7 @@ from setuptools import setup, find_packages
 
 requires = [
     "salesforce-bulk==2.2.0",
-    "simple-salesforce==0.72.2",
+    "simple-salesforce==1.*",
     "salesforce-oauth-request==1.0.6",
 ]
 
